@@ -1,4 +1,4 @@
-# 🖥️ Sentiric Web Agent UI
+# 🖥️ Sentiric Web Agent
 
 [![Status](https://img.shields.io/badge/status-prototype-orange.svg)]()
 [![Framework](https://img.shields.io/badge/framework-Next.js_14-black.svg)](https://nextjs.org/)

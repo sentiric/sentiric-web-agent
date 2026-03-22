@@ -17,7 +17,7 @@ networks:
 services:
   #[presentation-ui]: Kullanıcı Arayüzleri (User Interfaces)
   # --------------------------------------------------  
-  web-agent-ui:
+  web-agent:
     build: { context: ../sentiric-web-agent-ui }
     env_file: ["${ENV_FILE_PATH}"]
     volumes: 

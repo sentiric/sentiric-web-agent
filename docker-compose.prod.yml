@@ -17,7 +17,7 @@ networks:
 services:
   #[presentation-ui]: Kullanıcı Arayüzleri (User Interfaces)
   # --------------------------------------------------  
-  web-agent-ui:
+  web-agent:
     image: ghcr.io/sentiric/sentiric-web-agent-ui:${TAG:-latest}
     env_file: ["${ENV_FILE_PATH}"]
     volumes: 
